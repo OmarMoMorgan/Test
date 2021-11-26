@@ -22,7 +22,7 @@ int main()
 
 		//Update the drawing window
 		AppManager.UpdateInterface();
-	
+		wrong this makes sense
 
 	}while(ActType != EXIT);
 		

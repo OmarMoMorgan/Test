@@ -30,6 +30,10 @@ int main()
 			hey get this now jwekjwlekj
 			
 	
+
+	mystpid feature() {
+	sdjkahfkjadshf adkfadfu;
+}
 >>>>>>> 9c8c62d28e0d33fc3323fc1162768fc183e44b60
 
 	}while(ActType != EXIT);

@@ -28,7 +28,8 @@ int main()
 		actullay this code makes no sense
 		welll test tttttttt
 			hey get this now jwekjwlekj
-			
+			this is done after creating the new branch
+	hehahahah
 	
 >>>>>>> 9c8c62d28e0d33fc3323fc1162768fc183e44b60
 

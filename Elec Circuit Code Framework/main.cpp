@@ -23,6 +23,8 @@ int main()
 		//Update the drawing window
 		AppManager.UpdateInterface();
 		actullay this code makes no sense
+		welll test tttttttt
+			
 			
 	
 
